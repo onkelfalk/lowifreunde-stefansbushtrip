@@ -1,4 +1,4 @@
 # lowifreunde-stefansbushtrip
 Stefan's Wildnisflug
 
-[Download](README.md)
+[Download](Packages/lowifreunde-stefansbushtrip)
