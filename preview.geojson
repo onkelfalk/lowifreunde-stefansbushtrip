@@ -1,0 +1,160 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#ff0000",
+"marker-size": "medium",
+"marker-symbol": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.345513888888888,47.25522222222222
+]
+}
+}
+,{
+"type": "Feature",
+"properties": {
+"marker-color": "#000000",
+"marker-size": "medium",
+"marker-symbol": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.267138888888889,47.255580555555554
+]
+}
+}
+,{
+"type": "Feature",
+"properties": {
+"stroke": "#575757",
+"stroke-width": 2
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+[11.345513888888888,47.25522222222222],
+[11.267138888888889,47.255580555555554]
+]
+}
+}
+,{
+"type": "Feature",
+"properties": {
+"marker-color": "#000000",
+"marker-size": "medium",
+"marker-symbol": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.247227777777777,47.2776
+]
+}
+}
+,{
+"type": "Feature",
+"properties": {
+"stroke": "#575757",
+"stroke-width": 2
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+[11.267138888888889,47.255580555555554],
+[11.247227777777777,47.2776]
+]
+}
+}
+,{
+"type": "Feature",
+"properties": {
+"marker-color": "#000000",
+"marker-size": "medium",
+"marker-symbol": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.379877777777779,47.30705555555556
+]
+}
+}
+,{
+"type": "Feature",
+"properties": {
+"stroke": "#575757",
+"stroke-width": 2
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+[11.247227777777777,47.2776],
+[11.379877777777779,47.30705555555556]
+]
+}
+}
+,{
+"type": "Feature",
+"properties": {
+"marker-color": "#000000",
+"marker-size": "medium",
+"marker-symbol": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.388847222222223,47.260475
+]
+}
+}
+,{
+"type": "Feature",
+"properties": {
+"stroke": "#575757",
+"stroke-width": 2
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+[11.379877777777779,47.30705555555556],
+[11.388847222222223,47.260475]
+]
+}
+}
+,{
+"type": "Feature",
+"properties": {
+"stroke": "#575757",
+"stroke-width": 2
+},
+"geometry": {
+"type": "LineString",
+"coordinates": [
+[11.388847222222223,47.260475],
+[11.345513888888888,47.25522222222222]
+]
+}
+}
+,{
+"type": "Feature",
+"properties": {
+"marker-color": "#ff0000",
+"marker-size": "medium",
+"marker-symbol": ""
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+11.345513888888888,47.25522222222222
+]
+}
+}
+]
+}
+

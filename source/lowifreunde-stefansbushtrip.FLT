@@ -1,0 +1,446 @@
+
+[Main]
+MissionType=BushTrip
+MissionLocation=TT:lowifreunde-stefansbushtrip.Mission.2
+Title=TT:lowifreunde-stefansbushtrip.Mission.3
+Description=TT:lowifreunde-stefansbushtrip.Mission.4
+AppVersion=10.0.282174
+FlightVersion=1
+
+[Briefing]
+BriefingText=TT:lowifreunde-stefansbushtrip.Mission.1
+BriefingImage0="./Images/LOWI.jpg"
+
+[Options]
+Sound=True
+Pause=True
+Moonlight=True
+Save=True
+SaveOriginalFlightPlan=True
+TextDisplayPage=0
+SlewDisplayPage=1
+AxisIndicator=Off
+Titles=False
+
+[Sim.0]
+Sim=AIRBUS H135
+SimFile=runway.FLT
+TailNumber=
+AirlineCallSign=
+FlightNumber=
+AppendHeavy=False
+Pilot=Pilot_Male
+Copilot.0=Pilot_Male
+Copilot.1=Pilot_Male
+
+
+[ResourcePath]
+Path=lowifreunde-stefansbushtrip
+
+[ObjectFile]
+File=lowifreunde-stefansbushtrip
+
+[Atc_Menu]
+Visible=False
+
+[Weather]
+UseWeatherFile=False
+UseLiveWeather=False
+WeatherPresetFile=.\WeatherPresets\FewClouds.WPR
+WeatherCanBeLive=False
+
+[Assistance]
+Preset=ASSISTANCE_PRESET_BUSH_TRIP
+EventTriggersFileCount=1
+EventTriggersFile.0=BushTripEventTriggers
+
+[Departure]
+ICAO=LOWI
+RunwayNumber=
+RunwayDesignator=NONE
+
+[Loading]
+ImageName=./images/Loading_Screen.jpg
+Tips0=TT:lowifreunde-stefansbushtrip.Mission.5
+Tips1=TT:LOADING.TIPS.BUSH_TRIPS.2
+Tips2=TT:LOADING.TIPS.BUSH_TRIPS.3
+Tips3=TT:LOADING.TIPS.BUSH_TRIPS.4
+Tips4=TT:LOADING.TIPS.BUSH_TRIPS.5
+
+
+[Panels]
+Panel.On=True
+HUD.On=False
+
+[Window.1]
+Order=255
+Active=True
+Undocked=False
+Maximized=True
+ScreenUniCoords=0, 0, 8192, 4000
+UndocCoords=0, 0, 0, 0
+CurrentCamera={BCA3FDD1-FB83-4BBA-8407-4922A7F0D00C}
+
+[Camera.1.1]
+Guid={B1386D92-4782-4682-A137-738E25D1BAB5}
+Zoom=1
+Translation=0, 0, 0
+Rotation=8, 0, 0
+
+[Camera.1.2]
+Guid={C95EAB58-9E4A-4E2A-A34C-D8D9D948F078}
+Zoom=0.69999998807907104492
+Translation=0, 0, 0
+Rotation=8, 0, 0
+
+[Camera.1.3]
+Guid={195EAB58-9E4A-1E2A-A34C-A8D9D948F078}
+Zoom=0.56999999284744262695
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.4]
+Guid={A1FF1FC6-4902-46D4-AFFD-22F64B240235}
+Zoom=0.56999999284744262695
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.5]
+Guid={E9FF00BD-8D7B-4934-8855-364A432149A6}
+Zoom=0.31000000238418579102
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.6]
+Guid={64D6C8BC-406A-4B73-8441-7393A4A335B4}
+Zoom=0.31000000238418579102
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.7]
+Guid={A31C5FA5-4508-4C1A-84A7-6F46C68FBB4A}
+Zoom=0.31000000238418579102
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.8]
+Guid={3707B27E-DC9F-44A3-8E82-422191F16B72}
+Zoom=0.33000001311302185059
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.9]
+Guid={7B23189D-3554-4F63-99E2-F56DC287BD76}
+Zoom=0.33000001311302185059
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.10]
+Guid={BCA3FDD1-FB83-4BBA-8407-4922A7F0D00C}
+Zoom=1
+Translation=0, 0, 0
+ChaseDirection=90
+ChaseDistance=28.041599273681640625
+ChaseAltitude=0.91439998149871826172
+
+[Camera.1.11]
+Guid={BCA3FDD1-FB83-4BBA-8407-4922A7F0D00D}
+Zoom=1
+Translation=0, 0, 0
+ChaseDirection=-135
+ChaseDistance=37.5
+ChaseAltitude=0.80000001192092895508
+
+[Camera.1.12]
+Guid={6B79DD49-9B4A-439D-BF40-ACBF157B0BA0}
+Zoom=10
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.13]
+Guid={A2849229-938A-448F-8AC6-01EF2291C171}
+Zoom=80.3000030517578125
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.14]
+Guid={60BC0819-BD04-4AF6-8954-8FC8AA3545FF}
+Zoom=8
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.15]
+Guid={C690EAFD-223A-42D0-99E0-681ADF93BB59}
+Zoom=1
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.16]
+Guid={3A09FD6C-D406-4D8F-A5CD-FA4F5E0C12ED}
+Zoom=1
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.17]
+Guid={D8D67955-2E9B-4E75-9D8B-8EFFBBFAC64A}
+Zoom=0.75
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.18]
+Guid={41F9C308-7FFA-4BE1-8CC1-43336D945791}
+Zoom=1.2999999523162841797
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.19]
+Guid={4B06E947-0AC1-465C-B1C7-D7548A5FACE9}
+Zoom=1.2999999523162841797
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.20]
+Guid={C46C9BC7-ABD4-401C-A273-087BAAA0922A}
+Zoom=1.2999999523162841797
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.21]
+Guid={1C03E395-7B86-4F79-8684-E3154A9EDDA6}
+Zoom=1.2999999523162841797
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.22]
+Guid={14AA6A13-7FCC-4F0F-9137-ABEF10DFCBB9}
+Zoom=0.56999999284744262695
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.23]
+Guid={EBABF59F-3730-4F2E-A245-74901E9F8ED6}
+Zoom=0.40000000596046447754
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.24]
+Guid={08E673AF-9D5D-449A-86CB-84A55649A650}
+Zoom=0.56999999284744262695
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.25]
+Guid={182C26E7-0D2D-4995-B776-53A96D125521}
+Zoom=0.31083399057388305664
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.26]
+Guid={A32BC57C-6208-4FA7-98D0-09F3425F5F0E}
+Zoom=0.56999999284744262695
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[ATC_AgentManager]
+NumberofAgents=0
+
+[ATC_Aircraft.0]
+ActiveFlightPlan=True
+RequestedFlightPlan=False
+AcState=ACSTATE_REQUEST_TAXI_CLEARANCE_OUT_VFR_ATIS
+Waypoint.0=!A, LOWI, , TT:lowifreunde-stefansbushtrip.Mission.6, A, N47° 15' 18.80",E11° 20' 43.85", +001925.00, 
+Waypoint.1=!A, POI1, , TT:lowifreunde-stefansbushtrip.Mission.7, U, N47° 15' 20.09",E11° 16' 1.70", +010000.00, 
+Waypoint.2=!A, POI2, , TT:lowifreunde-stefansbushtrip.Mission.8, U, N47° 16' 39.36",E11° 14' 50.02", +010000.00, 
+Waypoint.3=!A, POI3, , TT:lowifreunde-stefansbushtrip.Mission.9, U, N47° 18' 25.40",E11° 22' 47.56", +010000.00, 
+Waypoint.4=!A, POI4, , TT:lowifreunde-stefansbushtrip.Mission.10, U, N47° 15' 37.71",E11° 23' 19.85", +010000.00, 
+Waypoint.5=, LOWI, , TT:lowifreunde-stefansbushtrip.Mission.11, A, N47° 15' 18.80",E11° 20' 43.85", +001925.00, 
+NumberofWaypoints=6
+ClearanceFlags=88a
+CtCur=CLEARANCE_NONE
+WaypointNext=1
+AltCleared=-1
+HdgAssigned=-1
+SquawkAssigned=4608
+LandingSequence=LANDING_NONE
+DepartureRequest=DEPARTURE_VFR_REQUEST_NONE
+ParkingRequest=PARKING_NAME_NONE
+ParkingTypeRequest=PARKING_TYPE_NONE
+PatternLeg=PATTERN_LEG_NONE
+ApproachIndex=-1
+ApproachTransitionIndex=-1
+ApproachRequestIndex=-1
+ApproachTransitionRequestIndex=-1
+RunwayIndex=-1
+RunwayRequestIndex=-1
+ParkingIndex=-1
+FlightFollowing=FLIGHT_FOLLOWING_NO
+AirspaceTransition=AIRSPACE_TRANSITION_NONE
+BVAirspaceTransition=BV_TYPE_NONE
+BVAirspaceTransitionReq=BV_TYPE_NONE
+TakeoffSequence=TAKEOFF_SEQUENCE_NONE
+LandingSequenceNumber=-1
+TaxiRouteCurrent=-1
+CruisingAltitude=1000
+RequestedCruisingAltitude=-1
+ExpectedAltitude=-1
+AircraftSignature=1,0
+
+[ATC_ActiveFlightPlan.0]
+Title=TT:lowifreunde-stefansbushtrip.Mission.3
+Description=TT:lowifreunde-stefansbushtrip.Mission.4
+type=VFR
+routetype=0
+cruising_altitude=1000
+departure_id=LOWI, N47° 15' 18.80",E11° 20' 43.85",+001925.00
+departure_position=
+destination_id=LOWI, N47° 15' 18.80",E11° 20' 43.85",+001925.00
+departure_name=TT:lowifreunde-stefansbushtrip.Mission.6
+destination_name=TT:lowifreunde-stefansbushtrip.Mission.11
+Waypoint.0=!A, LOWI, , TT:lowifreunde-stefansbushtrip.Mission.6, A, N47° 15' 18.80",E11° 20' 43.85", +001925.00, 
+Waypoint.1=!A, POI1, , TT:lowifreunde-stefansbushtrip.Mission.7, U, N47° 15' 20.09",E11° 16' 1.70", +010000.00, 
+Waypoint.2=!A, POI2, , TT:lowifreunde-stefansbushtrip.Mission.8, U, N47° 16' 39.36",E11° 14' 50.02", +010000.00, 
+Waypoint.3=!A, POI3, , TT:lowifreunde-stefansbushtrip.Mission.9, U, N47° 18' 25.40",E11° 22' 47.56", +010000.00, 
+Waypoint.4=!A, POI4, , TT:lowifreunde-stefansbushtrip.Mission.10, U, N47° 15' 37.71",E11° 23' 19.85", +010000.00, 
+Waypoint.5=, LOWI, , TT:lowifreunde-stefansbushtrip.Mission.11, A, N47° 15' 18.80",E11° 20' 43.85", +001925.00, 
+
+[ATC_AircraftManager]
+NumberofAircraft=1
+
+[ATC_MessageSystem]
+FrequencyNodes=0
+
+[GPS_Engine]
+Filename=lowifreunde-stefansbushtrip
+position=N47° 15' 18.80",E11° 20' 43.85",+001925.00
+Time=-1
+TimeWP=22020
+ArriveTime=47346
+CountWP=6
+NextWP=1
+PlaneStarted=False
+WpInfo0=126, 0, 304, 0, 0, 0.0, 0.0, 0.0
+WpInfo1=126, 0, 304, 0, 0, 0.0, 0.0, 0.0
+WpInfo2=126, 0, 304, 0, 0, 0.0, 0.0, 0.0
+WpInfo3=126, 0, 304, 0, 0, 0.0, 0.0, 0.0
+WpInfo4=126, 0, 304, 0, 0, 0.0, 0.0, 0.0
+WpInfo5=126, 0, 304, 0, 0, 0.0, 0.0, 0.0
+CountFP=0
+
+[DateTimeSeason]
+Season=Summer
+Year=2021
+Day=166
+Hours=10
+Minutes=10
+Seconds=0
+
+[Panel.1]
+ScreenUniCoords=0, 0, 0, 0
+UndocCoords=0, 0, 0, 0
+Visible=False
+Undocked=False
+HiddenOn=False
+ID=0
+ViewsOn=1
+
+[Panel.2]
+ScreenUniCoords=0, 0, 0, 0
+UndocCoords=0, 0, 0, 0
+Visible=False
+Undocked=False
+HiddenOn=False
+ID=50
+ViewsOn=0
+
+[Panel.3]
+ScreenUniCoords=0, 0, 0, 0
+UndocCoords=0, 0, 0, 0
+Visible=False
+Undocked=False
+HiddenOn=False
+ID=225
+ViewsOn=0
+
+[Panel.4]
+ScreenUniCoords=0, 0, 0, 0
+UndocCoords=0, 0, 0, 0
+Visible=False
+Undocked=False
+HiddenOn=False
+ID=1
+ViewsOn=0
+
+[Panel.5]
+ScreenUniCoords=0, 0, 0, 0
+UndocCoords=0, 0, 0, 0
+Visible=False
+Undocked=False
+HiddenOn=False
+ID=2
+ViewsOn=0
+
+[Panel.6]
+ScreenUniCoords=0, 0, 0, 0
+UndocCoords=0, 0, 0, 0
+Visible=False
+Undocked=False
+HiddenOn=False
+ID=20000
+ViewsOn=1
+
+[SimVars.0]
+Latitude=N47° 15' 18.80"
+Longitude=E11° 20' 43.85"
+Altitude=+001925.00
+Pitch=0
+Bank=0
+Heading=0
+PVelBodyAxis=0
+BVelBodyAxis=0
+HVelBodyAxis=0
+XVelBodyAxis=0
+YVelBodyAxis=0
+ZVelBodyAxis=0
+SimOnGround=True
+OnPlatformHeight=-9999999999
+
+[Slew.0]
+Active=False
+
+
+
+[Freeze.0]
+Location=False
+Altitude=False
+Attitude=False
+
+[Fuel.0]
+TankSelector=All
+TankSelector1=All
+Center=100
+LeftMain=100
+RightMain=100
+LeftAux=100
+RightAux=100
+LeftTip=100
+RightTip=100
+Center 2=100
+Center 3=100
+External 1=100
+External 2=100
+
+[Payload.0]
+PayloadList=85.0,85.0,0.0,0.0,0.0
+
+[Controls.0]
+LeftBrake=100.00
+RightBrake=100.00
+ParkingBrake=100.00
+
+[SimScheduler]
+SimSpeed=001.00
+SimTime=596.82995962224549658
+
+
+[Multiplayer]
+Status=1

@@ -1,0 +1,47 @@
+<AssetPackage Name="lowifreunde-stefansbushtrip" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>MISSION</ContentType>
+		<Title>BUSH TRIP Stefan's Welt</Title>
+		<Manufacturer>Bell47Steve mit onkelfalk</Manufacturer>
+		<Creator>Bell47Steve mit onkelfalk</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\lowifreunde-stefansbushtrip\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\lowifreunde-stefansbushtrip</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="MarketplaceData">
+			<Type>MarketplaceData</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\lowifreunde-stefansbushtrip\MarketplaceData</AssetDir>
+			<OutputDir>MarketplaceData\lowifreunde-stefansbushtrip</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="lowifreunde-stefansbushtrip">
+			<Type>Mission</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>source</AssetDir>
+			<OutputDir>Missions\lowifreunde-stefansbushtripDir</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="Scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\scene</AssetDir>
+			<OutputDir>scenery</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

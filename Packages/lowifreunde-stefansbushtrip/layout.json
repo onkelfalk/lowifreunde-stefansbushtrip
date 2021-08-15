@@ -1,0 +1,129 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/lowifreunde-stefansbushtrip/Thumbnail.jpg",
+      "size": 7186,
+      "date": 132728096798290985
+    },
+    {
+      "path": "de-DE.locPak",
+      "size": 1467,
+      "date": 132728132273806969
+    },
+    {
+      "path": "en-US.locPak",
+      "size": 1467,
+      "date": 132728132273776961
+    },
+    {
+      "path": "es-ES.locPak",
+      "size": 1467,
+      "date": 132728132273706970
+    },
+    {
+      "path": "fi-FI.locPak",
+      "size": 1467,
+      "date": 132728132273846993
+    },
+    {
+      "path": "fr-FR.locPak",
+      "size": 1467,
+      "date": 132728132273816961
+    },
+    {
+      "path": "it-IT.locPak",
+      "size": 1467,
+      "date": 132728132273866968
+    },
+    {
+      "path": "ja-JP.locPak",
+      "size": 1467,
+      "date": 132728132273696967
+    },
+    {
+      "path": "Missions/lowifreunde-stefansbushtripDir/images/Activity_Widget.jpg",
+      "size": 205925,
+      "date": 132728113430446573
+    },
+    {
+      "path": "Missions/lowifreunde-stefansbushtripDir/images/Loading_Screen.jpg",
+      "size": 164387,
+      "date": 132728096797820809
+    },
+    {
+      "path": "Missions/lowifreunde-stefansbushtripDir/images/LOWI.jpg",
+      "size": 975792,
+      "date": 132728124596476268
+    },
+    {
+      "path": "Missions/lowifreunde-stefansbushtripDir/images/LOWI_POI.png",
+      "size": 6655,
+      "date": 132728096794512937
+    },
+    {
+      "path": "Missions/lowifreunde-stefansbushtripDir/lowifreunde-stefansbushtrip.FLT",
+      "size": 9906,
+      "date": 132728096804343429
+    },
+    {
+      "path": "Missions/lowifreunde-stefansbushtripDir/lowifreunde-stefansbushtrip.loc",
+      "size": 8988,
+      "date": 132728096804083233
+    },
+    {
+      "path": "Missions/lowifreunde-stefansbushtripDir/lowifreunde-stefansbushtrip.PLN",
+      "size": 2264,
+      "date": 132728096804363429
+    },
+    {
+      "path": "Missions/lowifreunde-stefansbushtripDir/lowifreunde-stefansbushtrip.spb",
+      "size": 8020,
+      "date": 132728132273216970
+    },
+    {
+      "path": "Missions/lowifreunde-stefansbushtripDir/Weather.WPR",
+      "size": 2603,
+      "date": 132454355920000000
+    },
+    {
+      "path": "nb-NO.locPak",
+      "size": 1467,
+      "date": 132728132273836970
+    },
+    {
+      "path": "nl-NL.locPak",
+      "size": 1467,
+      "date": 132728132273756969
+    },
+    {
+      "path": "pl-PL.locPak",
+      "size": 1467,
+      "date": 132728132273736972
+    },
+    {
+      "path": "pt-BR.locPak",
+      "size": 1467,
+      "date": 132728132273657026
+    },
+    {
+      "path": "ru-RU.locPak",
+      "size": 1467,
+      "date": 132728132273796977
+    },
+    {
+      "path": "scenery/objects.bgl",
+      "size": 56,
+      "date": 132728132270357116
+    },
+    {
+      "path": "sv-SE.locPak",
+      "size": 1467,
+      "date": 132728132273677098
+    },
+    {
+      "path": "zh-CN.locPak",
+      "size": 1467,
+      "date": 132728132273766967
+    }
+  ]
+}

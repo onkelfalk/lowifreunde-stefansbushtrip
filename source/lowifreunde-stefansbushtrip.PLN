@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+       <FlightPlan.FlightPlan>
+        <Title>LOWI to LOWI</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>1000</CruisingAlt>
+        <DepartureID>LOWI</DepartureID>
+        <DepartureLLA>N47° 15' 18.80",E11° 20' 43.85",+001925.00</DepartureLLA>
+        <DestinationID>LOWI</DestinationID>
+        <DestinationLLA>N47° 15' 18.80",E11° 20' 43.85",+001925.00</DestinationLLA>
+        <Descr>LOWI, LOWI</Descr>
+        <DeparturePosition></DeparturePosition>
+        <DepartureName></DepartureName>
+        <DestinationName></DestinationName>
+        <AppVersion>
+            <AppVersionMajor>10</AppVersionMajor>
+            <AppVersionBuild>61472</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LOWI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 15' 18.80",E11° 20' 43.85",+001925.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LOWI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="POI1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 15' 20.09",E11° 16' 1.70",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="POI2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 16' 39.36",E11° 14' 50.02",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="POI3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 18' 25.40",E11° 22' 47.56",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="POI4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 15' 37.71",E11° 23' 19.85",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LOWI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 15' 18.80",E11° 20' 43.85",+001925.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LOWI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
